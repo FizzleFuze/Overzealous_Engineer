@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
     'title', "Overzealous Engineer",
     'description', "",
     'image', "thumbnail.png",
-    'last_changes', "TBD",
+    'last_changes', "https://github.com/FizzleFuze/Overzealous_Engineer/blob/master/changelog.md",
     'ignore_files', {
         "*.git/*",
         "*.svn/*",

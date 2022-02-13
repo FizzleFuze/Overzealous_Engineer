@@ -1,0 +1,12 @@
+[b][i]Overzealous Engineer[/i] Mission Sponsor[/b]
+
+[i]Starting Prefabs:[/i]
+* 1x Space Elevator
+* 3x Advanced Stirling Generator
+
+[i]Effects:[/i]
+* +150 research
+* Research Boost + 25% to all techs
+* One extra rocket
+
+By [i]Lonesamurai - Sanitarium.FM[/i]
